@@ -1,3 +1,32 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+#first_name{
+    border: none;
+    border-bottom:2px solid black;
+}
+#last_name{
+    border: none;
+    border-bottom:2px solid black;
+}
+#email{
+    border: none;
+    border-bottom:2px solid black; 
+}
+#address{
+    border: none;
+    border-bottom:2px solid black;
+}
+#contact{
+    border: none;
+    border-bottom:2px solid black; 
+}
+#div{
+
+    background-color: rgb(208, 228, 228);
+    padding-left: 500px;
+}
+#submit{
+    background-color: black;
+    text-decoration: none;
+}
